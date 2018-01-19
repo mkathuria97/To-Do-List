@@ -1,6 +1,5 @@
 <?php
-    //Name : Mayank Kathuria
-	//Student Number : 1534791
+    
 	//The target where the user submits its login form data to log in
 
 	session_start();
