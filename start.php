@@ -1,6 +1,5 @@
 <?php 
-//Name: Mayank Kathuria
-//Student Number: 1534791
+
 //The program displays the initial web page describing the site with a form for 
 //the user to log in or register
 include("common.php");
