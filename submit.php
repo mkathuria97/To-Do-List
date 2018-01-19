@@ -1,6 +1,5 @@
 <?php 
-    //Name : Mayank Kathuria
-	//Student Number : 1534791
+   
 	//The target where todolist.php submits requests to add/delete items from the list
 
   	session_start();
