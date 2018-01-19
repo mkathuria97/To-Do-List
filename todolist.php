@@ -1,6 +1,5 @@
 <?php 
-//Name: Mayank Kathuria
-//Student Number: 1534791
+
 //The page shows the user's todolist and lets them add/delete items from
 include("common.php") ; 
 topContent(); ?>
