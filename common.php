@@ -1,4 +1,3 @@
-
 <!-- Contains function of any common code that is shared between pages-->
 <?php 
 	//contains the top conetnt of the page including the MyMDb logo
