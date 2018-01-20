@@ -1,7 +1,5 @@
 <?php
-    
 	//The target where the user submits its login form data to log in
-
 	session_start();
 	//gets the username provided by the user
 	$username = $_POST["name"];
