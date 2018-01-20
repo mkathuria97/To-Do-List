@@ -1,5 +1,4 @@
 <?php 
-	
 	//logs the user out and redirect them to the initial page
 	session_start();
 	//ends the current session
