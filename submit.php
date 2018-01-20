@@ -1,5 +1,4 @@
 <?php 
-   
 	//The target where todolist.php submits requests to add/delete items from the list
 
   	session_start();
